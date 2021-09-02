@@ -1,3 +1,3 @@
 # Project-PortakalSoftware
 
-Web Development Project // Test
+Web Development Project
