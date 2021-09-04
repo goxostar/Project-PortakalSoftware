@@ -483,3 +483,59 @@ footer p{
 #portfolio .needMargin{
   margin-bottom: 75px;
 }
+
+/*
+#Contact Us Section
+*/
+
+.page-image-contact{
+  background: linear-gradient(rgba(20, 20, 20, .8),rgba(20, 20, 20, .8)),url("../img/contactBG.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.form-group{
+  margin-bottom: 25px;
+}
+
+.form-group input,
+.form-group textarea{
+  padding: 20px;
+}
+
+.form-group input.form-control{
+  height: auto;
+}
+
+.form-group textarea.form-control{
+  height: 248px;
+}
+
+.form-control:focus{
+  border-color: orangered;
+  box-shadow: none;
+}
+
+.btn-contact{
+  background-color: orangered;
+  color: #fff;
+}
+
+.btn-contact:hover{
+  background-color: #fff;
+  color: orangered;
+}
+
+#contact .card-header{
+  font-size: 20px;
+  color: orangered;
+}
+
+#contact .card{
+  border-color: orangered;
+}
+
+#contact .card-header{
+  border-color: orangered;
+}
