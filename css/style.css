@@ -49,6 +49,10 @@ nav.navbar-container{
   background-color: transparent;
 }
 
+.nav-item{
+  text-align: right;
+}
+
 #mainNav .navbar-nav .nav-item .nav-link{
   font-size: 15px;
   font-weight: 500;
